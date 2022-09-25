@@ -28,6 +28,10 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
+  
+  <div>
+    <span><a href="https://beian.miit.gov.cn" target="_blank" rel="noopener">陇ICP备17003799号</a></span>
+  </div>
 </template>
 
 <script>
